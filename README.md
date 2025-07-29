@@ -11,4 +11,4 @@ Here on GitHub, I share my projects, experiments, and things I’m learning.
 
 - Python  
 - JavaScript (learning)  
-- APIs, scripts, automations  
+- BI

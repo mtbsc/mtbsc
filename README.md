@@ -9,4 +9,4 @@ Hi there, my name is Matheus
 
 ### 🔢 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbsc&layout=compact&theme=dark)
